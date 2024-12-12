@@ -1,0 +1,24 @@
+@media (hover: hover) {
+  .header__btn:hover {
+    background: var(--blue-light);
+    color: var(--white);
+  }
+
+  .form__input:hover {
+    background: #A0C3FF1A;
+    border: 1px solid #116ACC
+  }
+
+  .dropdown__content-btn:hover {
+    background-color: var(--blue-light);
+  }
+
+  .header__btn:active {
+    background: var(--blue-dark);
+    color: var(--white);
+  }
+
+  .account__btn:hover {
+    background: var(--blue-light);
+  }
+}
